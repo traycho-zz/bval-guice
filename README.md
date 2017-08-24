@@ -1,3 +1,5 @@
+This repo contains only the guice integration part with latest release version of Apache BVAL 1.1.2
+
 Apache BVal - README.txt
 Licensed under Apache License 2.0 - http://www.apache.org/licenses/LICENSE-2.0
 --------------------------------------------------------------------------------
